@@ -2,7 +2,11 @@ Dans ce projet, notre objectif est de développer une application de gestion de 
 
 Partie Backend :
 https://github.com/ZOUHAIDI-Mohamed-Ettayeb/ebanking-backend
+
+
 Partie Frontend :
 https://github.com/ZOUHAIDI-Mohamed-Ettayeb/Digital-Banking-Web
+
+
 Video Démonstrative :
 https://drive.google.com/drive/folders/1-dryozpUZOT03JqbP0222O9vbcBEsr9p?usp=sharing
